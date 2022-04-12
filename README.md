@@ -1,6 +1,7 @@
 # MO_loading
 心灵终结动态载入界面插件-测试版 Mental Omega dynamic loading interface plugin (Beta)  
 这是一个能够让你的心灵终结客户端拥有动态载入界面的非官方插件，必须配合MO Client才能使用  
+项目保留了全部注释，欢迎大家一起学习 or 优化 or DEBUG  
 ## 安装方法
 （1）在MO的根目录里面创建一个文件夹，名称随意，可以为中文  
 （2）将py文件、vlc文件夹、素材文件夹放在这个目录里面  
